@@ -34,6 +34,7 @@ A curated list of utilities we use on mac. This guide will help you to set up yo
 
 ### Commands
 1. XCode command line utilities
-  ```
-  xcode-select install
-  ```
+    ```
+    xcode-select install
+    ```
+2. Valet
