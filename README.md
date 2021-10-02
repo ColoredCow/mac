@@ -2,7 +2,8 @@
 A curated list of utilities we use on mac. This guide will help you to set up your development environment.
 
 ### First things first
-1. Chrome
+1. Chrome (Both M1 chip and Intel chip) - ClickHere(link)[https://www.google.com/chrome/?brand=CHBD&gclsrc=ds&gclsrc=ds]
+
 2. Brave
 
 ### Communication
