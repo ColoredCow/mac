@@ -20,14 +20,14 @@ A curated list of utilities we use on mac. This guide will help you to set up yo
 1. [iTerm OS 10.14+](https://iterm2.com/downloads.html)
 2. [Hyper](https://hyper.is/)
 3. Oh My ZSH
- - Using Wget 
-    ```sh
-        -sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
-    ```
- - Using Curl
-    ```sh
-        -sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-    ``` 
+   - Using Wget 
+     ```sh
+     sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
+     ```
+   - Using Curl
+     ```sh
+     sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+     ``` 
 4. [Powerlevel 10k](https://github.com/romkatv/powerlevel10k)
 
 
