@@ -39,13 +39,14 @@ A curated list of utilities we use on mac. This guide will help you to set up yo
 ### Development Environment
 1. [MAMP](https://www.mamp.info/en/mamp/mac/)
 2. [Docker](https://docs.docker.com/desktop/mac/install/)
+3. [Valet](https://gist.github.com/bradtraversy/b58f74cd863a465068eaeaae1544d9be)
 
 ### Commands
 1. XCode command line utilities
     ```sh
     xcode-select install
     ```
-2. Valet
+2. Brew cli
     ```sh
-    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
     ```
