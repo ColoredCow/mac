@@ -40,6 +40,7 @@ A curated list of utilities we use on mac. This guide will help you to set up yo
 1. [MAMP](https://www.mamp.info/en/mamp/mac/)
 2. [Docker](https://docs.docker.com/desktop/mac/install/)
 3. [Valet](https://gist.github.com/bradtraversy/b58f74cd863a465068eaeaae1544d9be)
+4. [Android Studio](https://redirector.gvt1.com/edgedl/android/studio/install/2022.1.1.21/android-studio-2022.1.1.21-mac.dmg)
 
 ### Commands
 1. XCode command line utilities
