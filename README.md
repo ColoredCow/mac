@@ -39,7 +39,7 @@ A curated list of utilities we use on mac. This guide will help you to set up yo
 ### Development Environment
 1. [MAMP](https://www.mamp.info/en/mamp/mac/)
 2. [Docker](https://docs.docker.com/desktop/mac/install/)
-3. [Valet](https://gist.github.com/bradtraversy/b58f74cd863a465068eaeaae1544d9be)
+3. [Valet](https://www.positronx.io/set-up-laravel-valet-on-mac-and-serve-sites-with-laravel-valet/)
 4. [Android Studio](https://redirector.gvt1.com/edgedl/android/studio/install/2022.1.1.21/android-studio-2022.1.1.21-mac.dmg)
 
 ### Commands
