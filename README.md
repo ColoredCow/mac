@@ -37,9 +37,9 @@ A curated list of utilities we use on mac. This guide will help you to set up yo
 3. [Sublime Text](https://www.sublimetext.com/download)
 
 ### Development Environment
-1. [MAMP](https://www.mamp.info/en/mamp/mac/)
-2. [Docker](https://docs.docker.com/desktop/mac/install/)
-3. [Laravel Herd](https://herd.laravel.com/)
+1. [Laravel Herd](https://herd.laravel.com/)
+2. [MAMP](https://www.mamp.info/en/mamp/mac/)
+3. [Docker](https://docs.docker.com/desktop/mac/install/)
 
 ### Commands
 1. XCode command line utilities
