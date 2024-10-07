@@ -7,14 +7,14 @@ A curated list of utilities we use on mac. This guide will help you to set up yo
 
 ### Communication
 1. [Slack](https://slack.com/intl/en-in/downloads/mac)
-2. [Discord macOS 10.11 (El Capitan) or higher](https://discord.com/download)
+2. [Discord](https://discord.com/download)
 3. [Chat](https://chat.google.com)
 4. [Zoom](https://zoom.us/support/download?os=mac)
 
 ### Database
-1. [TablePlus macOS 10.11+](https://tableplus.com/download)
-2. [Sequel Pro macOS 10.6+](https://sequelpro.com/download)
-3. [DB Ngin macOS 10.11+](https://dbngin.com/)
+1. [TablePlus](https://tableplus.com/download)
+2. [DB Ngin](https://dbngin.com/)
+3. [Sequel Pro](https://sequelpro.com/download)
 
 ### Terminal
 1. [iTerm OS 10.14+](https://iterm2.com/downloads.html)
